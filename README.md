@@ -1,1 +1,1 @@
-This repository contains cheat sheet and important developer files
+This repository contains cheat sheets and files for installation and reference developer files
